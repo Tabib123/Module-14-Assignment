@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 20,
+        "grade": "A",
+        "subject": ["Math", "English", "Phisics"]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 19,
+        "grade": "B",
+        "subject": ["History", "Chemistry", "Phisics"]
+    },
+    {
+        "id": 3,
+        "name": "Tom Johnson",
+        "age": 21,
+        "grade": "C",
+        "subject": ["Computer Science", "Math", "English"]
+    }
+]
